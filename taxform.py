@@ -12,4 +12,4 @@ taxableIncome = grossIncome - STANDARD_DEDUCTION - DEPENDENT_DEDUCTION * numDepe
 incomeTax = taxableIncome * TAX_RATE
 
 # Display the income tax
-print("The income tax is $" + str(incomeTax))
+print("The income tax is $" + str(incomeTax))git
